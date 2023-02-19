@@ -12,17 +12,9 @@
 
 
 
-### :woman_technologist: About Me 
+### 👨‍💻: About Me 
 
-/*:sparkles: From September 2020, I worked as SAP MII developer more than a year and I was responsible of full stack development of web applications by using JavaScript, SQL, HTML, CSS, jQuery and MII workbench.
-
-:sparkles: In January 2022, I started working with C# and .NET technologies as a software developer in a call center company.
-
-:sparkles: At the end of September 2022, I started working with Java Android. 
-
-:sparkles: In parallel, I participate in the Up School .NET Development program.*/
-
-
+:sparkles: 
 
 
 
